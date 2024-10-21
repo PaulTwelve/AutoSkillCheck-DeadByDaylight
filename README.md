@@ -1,1 +1,1 @@
-# AutoSkillCheck-DeadbyDaylight
+# AutoSkillCheck-DeadByDaylight
