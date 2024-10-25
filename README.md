@@ -13,6 +13,7 @@ In addition to convenience, the bot pokes at the differences, which allows you t
 
 - It is invisible to other players and anti-cheat.
 - Passes Skill Checks perfectly.
+- There is a <kbd>Left Shift</kbd> hotkey to quickly stop the repair.
 - Supports most screen resolutions.
 - Works with most shaders.
 - There is an interface for more fine-tuning for each user.
