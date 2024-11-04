@@ -27,6 +27,8 @@ The bot has started and is looking for matches.|The bot has found a match and is
 ### ***Game Settings***
 ```sh
 «SECONDARY ACTION SKILL CHECK» - «Space»
+«INTERACTION BEHAVIOUR» - «Hold»
+«PICK UP ITEM INTERACTIONS» - «LMB»
 «FPS LIMIT» - «120»
 «VSYNC» - «OFF»
 ```
