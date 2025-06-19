@@ -26,6 +26,7 @@ The bot has started and is looking for matches.|The bot has found a match and is
 ------
 ### ***Game Settings***
 ```sh
+«SKILL CHECK SCALE» - «100%»
 «SECONDARY ACTION SKILL CHECK» - «Space»
 «INTERACTION BEHAVIOUR» - «Hold»
 «PICK UP ITEM INTERACTIONS» - «LMB»
