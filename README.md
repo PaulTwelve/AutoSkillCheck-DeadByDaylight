@@ -8,7 +8,7 @@ In addition to convenience, the bot pokes at the differences, which allows you t
   <img src="https://i.ibb.co/4Y1JmBr/Auto-Skill-Check.png"/>
 </p>
 <p align="center">
-  <img src="https://i.ibb.co/1Gdw7Sg5/Dead-by-Daylight-2025-06-19-04-39-08-48-42sec-1-2.gif"/>
+  <img src="https://github.com/user-attachments/assets/4c4308e9-fe75-4fa2-8fa2-1c262629fea4"/>
 </p>
 
 ------
