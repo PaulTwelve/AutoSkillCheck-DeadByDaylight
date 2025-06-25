@@ -38,6 +38,12 @@ The bot has started and is looking for matches.|The bot has found a match and is
 ```
 
 ------
+### ***Manual***
+1. Download AutoSkillCheck.exe
+2. At the first launch, assign a convenient hotkey and save the settings.
+3. Next, by going to the generator and pressing a key, the bot will start repairing it and passing checks.
+
+------
 ### ***A list of perks for ganrush and killer perks that this bot bypasses.***
 Icon|Name|Description
 ---|---|---
