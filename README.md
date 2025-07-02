@@ -4,7 +4,7 @@
 > By pressing just 1 button, you can take your hands off the keyboard and, for example, drink tea, go to the toilet or why else are you too lazy to go through them.  
 In addition to convenience, the bot pokes at the differences, which allows you to bypass the negative perks of the killers or participate in gen rush, which will allow you to win more often.
 
-|<img src="https://i.ibb.co/4Y1JmBr/Auto-Skill-Check.png" width="100%"></img>|<img src="https://github.com/user-attachments/assets/4c4308e9-fe75-4fa2-8fa2-1c262629fea4" width="65%"></img>|
+|<img src="https://i.ibb.co/4Y1JmBr/Auto-Skill-Check.png"></img>|<img src="https://github.com/user-attachments/assets/4c4308e9-fe75-4fa2-8fa2-1c262629fea4" width="66%"></img>|
 |---|---|
 
 ------
