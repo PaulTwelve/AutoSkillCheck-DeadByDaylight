@@ -1,50 +1,95 @@
 <h1 align="center">AutoSkillCheck FOR DeadByDaylight</h1>
 
-This is a bot written in the AHK language to automatically pass reaction checks in Dead By Daylight.  
-By pressing just 1 button, you can take your hands off the keyboard and, for example, drink tea, go to the toilet or why else are you too lazy to go through them.  
+#### This is a bot written in the AHK language to automatically pass reaction checks in Dead By Daylight.  
+> By pressing just 1 button, you can take your hands off the keyboard and, for example, drink tea, go to the toilet or why else are you too lazy to go through them.  
 In addition to convenience, the bot pokes at the differences, which allows you to bypass the negative perks of the killers or participate in gen rush, which will allow you to win more often.
 
-<p align="center">
-  <img src="https://i.ibb.co/4Y1JmBr/Auto-Skill-Check.png"/>
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4c4308e9-fe75-4fa2-8fa2-1c262629fea4"/>
-</p>
+|![GenRush](https://i.ibb.co/4Y1JmBr/Auto-Skill-Check.png)|<table><tr><th>GenRush x4</th></tr><tr><td><img src="https://github.com/user-attachments/assets/4c4308e9-fe75-4fa2-8fa2-1c262629fea4"></img></td></tr></table>|
+|---|---|
 
 ------
-### ***Dignities***
+# Tables of contents
+
+* [Dignities](#dignities)
+* [Game Settings](#game-settings)
+* [Manual](#manual)
+* [List perks for bot](#a-list-of-perks-for-ganrush-and-killer-perks-that-this-bot-bypasses)
+
+------
+<h3 align="center"><i>Dignities</i></h3>
 
 - It is invisible to other players and anti-cheat.
 - Passes Skill Checks perfectly.
-- There is a <kbd>Left Shift</kbd> hotkey to quickly stop the repair.
 - Supports most screen resolutions.
 - Works with most shaders.
-- There is an interface for more fine-tuning for each user.
+- There is an interface for convenient configuration for each user.
 - There is an auto-update system. You don't have to download new versions every time.
 
-![Indicator-G](https://i.ibb.co/Z8QFsyK/Indicator-G.png)|![Indicator-Y](https://i.ibb.co/N2nTwHv/Indicator-Y.png)|![Indicator-R](https://i.ibb.co/bQWLZ9V/Indicator-R.png)
----|---|---
-The bot has started and is looking for matches.|The bot has found a match and is waiting for the red line.|The bot pressed <kbd>Space</kbd>.
-
 ------
-### ***Game Settings***
-```sh
-«SKILL CHECK SCALE» - «100%»
-«SECONDARY ACTION SKILL CHECK» - «Space»
-«INTERACTION BEHAVIOUR» - «Hold»
-«PICK UP ITEM INTERACTIONS» - «LMB»
-«FPS LIMIT» - «120»
+<h3 align="center"><i>Game Settings</i></h3>
+
+<table>
+  <tr>
+    <th>Tab</th>
+    <th>Parameter</th>
+  </tr>
+  <tr>
+    <td>GRAPHICS</td>
+    <td>
+      <pre>
+«FULL SCREEN MODE» - «Fullscreen»/«Windowed Fullscreen»
 «VSYNC» - «OFF»
-```
+«FPS LIMIT» - «120»
+«SKILL CHECK SCALE» - «100%»</pre>
+    </td>
+  </tr>
+  <tr>
+    <td>CONTROLS</td>
+    <td><pre>«INTERACTION BEHAVIOUR» - «Hold»</pre></td>
+  </tr>
+  <tr>
+    <td>INPUT BINDING</td>
+    <td>
+      <pre>
+«RUN» - «LShift»
+«PICK UP ITEM INTERACTIONS» - «LMB»
+«SECONDARY ACTION SKILL CHECK» - «Space»</pre>
+    </td>
+  </tr>
+</table>
 
 ------
-### ***Manual***
+<h3 align="center"><i>Manual</i></h3>
+
 1. Download AutoSkillCheck.exe
-2. At the first launch, assign a convenient hotkey and save the settings.
-3. Next, by going to the generator and pressing a key, the bot will start repairing it and passing checks.
+2. At the first launch:
+    - Assign a convenient hotkey.
+    - Set the reaction speed of the bot on the right slider.
+    - Enlarged search field if the check is not in the center.
+    - Save the settings.
+3. Make sure that your settings in the game match [these settings](#game-settings).
+4. Next, by going to the generator and pressing a key, the bot will start repairing it and passing checks. And an operation indicator will appear in the corner.
+
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/Z8QFsyK/Indicator-G.png"></img></td>
+    <td>The bot has started and is looking for matches.</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/N2nTwHv/Indicator-Y.png"></img></td>
+    <td>The bot has found a match and is waiting for the red line.</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/bQWLZ9V/Indicator-R.png"></img></td>
+    <td>The bot pressed <kbd>Space</kbd>.</td>
+  </tr>
+</table>
+
+- Starting running on <kbd>Left Shift</kbd> will automatically stop the script.
 
 ------
-### ***A list of perks for ganrush and killer perks that this bot bypasses.***
+<h3 align="center"><i>A list of perks for ganrush and killer perks that this bot bypasses</i></h3>
+
 Icon|Name|Description
 ---|---|---
 ![Deadline](https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_deadline.png/revision/latest/scale-to-width-down/96?cb=20240109231533)|Deadline|Whenever you are in the Injured State, Deadline activates: Increases the Odds of triggering Skill Checks by 6/8/10 % while repairing or healing. Causes Skill Checks to appear in random places. Reduces the penalty for missed Skill Checks by -50 %.
